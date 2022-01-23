@@ -1,4 +1,4 @@
-# Work-Day-Scheduler
+# Day-Scheduler
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
@@ -20,11 +20,11 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Usage:
-![alt](assets/images/Screenshot172719.png);
-![alt](assets/images/Screenshot173016.png);
+![alt](assets/images/);
+
 
 https://github.com/sandy-06/Work-Day-Scheduler
 
-deployed:https://sandy-06.github.io/Work-Day-Scheduler/
+deployed:https://erikaroguie.github.io/Digital-daily-planer/
 
-Sandra Sanders
+Erika Sanders
