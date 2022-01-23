@@ -1,4 +1,4 @@
-# Work-Day-Scheduler
+# Day-Scheduler
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
@@ -21,10 +21,10 @@ THEN the saved events persist
 
 Usage:
 ![alt](assets/images/Screenshot172719.png);
-![alt](assets/images/Screenshot173016.png);
 
-https://github.com/sandy-06/Work-Day-Scheduler
 
-deployed:https://sandy-06.github.io/Work-Day-Scheduler/
+https://github.com/ErikaRoguie/Digital-daily-planer
 
-Sandra Sanders
+deployed:https://erikaroguie.github.io/Digital-daily-planer/
+
+Erika and Sandra Sanders
