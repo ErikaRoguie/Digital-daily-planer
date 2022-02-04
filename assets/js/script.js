@@ -1,12 +1,12 @@
 //header is wider with keep what is there and add date and time to it
 document.getElementById("currentDay").innerText = moment().format('MMMM Do YYYY, h:mm:ss a');
 console.log(moment().format('MMMM Do YYYY, h:mm:ss a'));
-//line of blocks under header and spaced on center
-// top is date and then each block has a time associated with 
-// times are from 9-5( 8 time blocks)
+//line  blocks under header and spaced on center
+//On top is the date and then each block has a time associated with 
+// times are from 6-10( 17 time blocks)
 let dt = moment();
 dt.format("HH:mm");
-var line = ["9", "10", "11", "12", "13", "14", "15", "16"]
+var line = ["6","7","8","9", "10", "11", "12", "13", "14", "15", "16","17","18","19","20","21","22"]
 console.log(line)
 
 
