@@ -20,7 +20,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Usage:
-![alt](assets/images/Screenshot173016.png);
+![alt](assets/images/Screenshot%202022-02-05%20at%2013-25-40%20Work%20Day%20Scheduler.png);
 
 
 https://github.com/ErikaRoguie/Digital-daily-planer
